@@ -5,13 +5,12 @@
 ### Python!
 Hello!
 
-+python
-+css3
-+html
+* python
+* css3
+* html
 
 
 ## 2021-08-20
-+class
-+function
-
+* list
+* class
 
